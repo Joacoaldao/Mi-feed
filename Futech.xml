@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Fútbol y Tecnología - ElBldo Feed</title>
+    <link>https://tusitio.com</link>
+    <description>Resumen de noticias de fútbol argentino, internacional y tecnología.</description>
+    <language>es</language>
+
+    <!-- Fútbol Argentino - Olé -->
+    <item>
+      <title>Boca y River definen el torneo</title>
+      <link>https://www.ole.com.ar/futbol/boca-river-definicion.html</link>
+      <description>Los equipos más grandes del país se enfrentan en una final anticipada.</description>
+      <pubDate>Sat, 17 May 2025 14:30:00 GMT</pubDate>
+      <guid>https://www.ole.com.ar/futbol/boca-river-definicion.html</guid>
+    </item>
+
+    <!-- Fútbol Internacional - AS -->
+    <item>
+      <title>Real Madrid campeón de la Champions</title>
+      <link>https://argentina.as.com/futbol/real-madrid-campeon.html</link>
+      <description>El equipo blanco consigue su decimoquinta Champions League.</description>
+      <pubDate>Sat, 17 May 2025 13:00:00 GMT</pubDate>
+      <guid>https://argentina.as.com/futbol/real-madrid-campeon.html</guid>
+    </item>
+
+    <!-- Tecnología - Xataka -->
+    <item>
+      <title>Xiaomi lanza su nuevo plegable</title>
+      <link>https://www.xataka.com/moviles/xiaomi-nuevo-plegable</link>
+      <description>El Mi Fold 4 llega con mejoras en cámara y rendimiento.</description>
+      <pubDate>Sat, 17 May 2025 11:00:00 GMT</pubDate>
+      <guid>https://www.xataka.com/moviles/xiaomi-nuevo-plegable</guid>
+    </item>
+
+    <!-- Tecnología - Wired -->
+    <item>
+      <title>La inteligencia artificial redefine el diseño</title>
+      <link>https://es.wired.com/ia-diseno-futuro</link>
+      <description>Cómo la IA está cambiando las reglas del diseño industrial.</description>
+      <pubDate>Sat, 17 May 2025 10:00:00 GMT</pubDate>
+      <guid>https://es.wired.com/ia-diseno-futuro</guid>
+    </item>
+  </channel>
+</rss>
